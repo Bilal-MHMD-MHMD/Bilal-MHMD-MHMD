@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👨‍💻 Bilal Mohammed
 
-<!--
-**Bilal-MHMD-MHMD/Bilal-MHMD-MHMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Science student passionate about building secure, efficient, and well-structured software.  
+Focused on **C++ and C# development**, problem-solving.  
+Actively seeking **opportunities** to grow as a junior developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** C++, C# , SQL
+- **projects:** Welcome to my GitHub Profile 
+
+  ---
+
+## 🎯 Goals
+- Build strong foundations in software engineering and security.  
+- Contribute to freelance and internship projects internationally.  
+- Master Git hygiene and IDE best practices.  
+- Integrate encryption and hashing into real-world applications.  
+
+---
+
+## 📫 Contact
+- **Email:** bilalmm909020242@gmail.com  
+- **GitHub:** [Bilal-MHMD-MHMD](https://github.com/Bilal-MHMD-MHMD)  
+
