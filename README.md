@@ -13,10 +13,7 @@ Actively seeking **opportunities** to grow as a junior developer.
   ---
 
 ## 🎯 Goals
-- Build strong foundations in software engineering and security.  
-- Contribute to freelance and internship projects internationally.  
-- Master Git hygiene and IDE best practices.  
-- Integrate encryption and hashing into real-world applications.  
+- Gain practical experience through a junior developer role or internship
 
 ---
 
