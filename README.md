@@ -18,6 +18,6 @@ Actively seeking **opportunities** to grow as a junior developer.
 ---
 
 ## 📫 Contact
-- **Email:** bilalmm90902024@gmail.com  
+- **Email:** belalmohammedbmma2006@gmail.com  
 - **GitHub:** [Bilal-MHMD-MHMD](https://github.com/Bilal-MHMD-MHMD)  
 
